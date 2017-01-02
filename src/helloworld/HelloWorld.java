@@ -6,9 +6,8 @@ package helloworld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		String s = "Hello World";
 		// Hello World 출력
-		System.out.println(s);  
+		System.out.println("Hello World");  
 
 	}
 
